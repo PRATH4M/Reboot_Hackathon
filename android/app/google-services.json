@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "803796815257",
+    "project_id": "connectu-bedb3",
+    "storage_bucket": "connectu-bedb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803796815257:android:383b4d204a1c1a7e219708",
+        "android_client_info": {
+          "package_name": "com.example.contentu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803796815257-691bhtc18dti1cf51shllj7hd782lqle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZWGbGeD_EK1d_dvSnOVWUNrA20kA8ypQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803796815257-691bhtc18dti1cf51shllj7hd782lqle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
